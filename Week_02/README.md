@@ -14,4 +14,4 @@ HashMap线程不安全，效率高，允许null键和null值。底层实现是�
 详见各java文件
 
 ## 3. 总结
-绘制脑图，见[`week02_summary.png`](https://note.youdao.com/)
+绘制脑图，见[`week02_summary.png`](https://github.com/lzk1012/algorithm009-class01/blob/master/Week_02/week02_summary.png)
